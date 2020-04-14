@@ -1,0 +1,14 @@
+.App {
+    position: relative;
+}
+
+.left-side {
+    position: relative;
+    left: -31%;
+}
+
+.img {
+    width: 39%;
+    height: 68%;
+    left: auto
+}

@@ -1,0 +1,21 @@
+.img {
+    width: 100%;
+}
+
+.App {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 10%;
+    text-align: center;
+    width: 60%;
+    color: white;
+    font-size: 600%;
+    border-style: groove;
+}
